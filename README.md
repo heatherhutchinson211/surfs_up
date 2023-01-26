@@ -5,10 +5,14 @@ The purpose of this analysis was to create two queries, one for the weather stat
 After performing analysis on the temperature statistics, I was able to create summary statistics for the months of June and Decmeber as shown below. 
 
 June: 
+
+
 ![June Summary statistics](https://github.com/heatherhutchinson211/surfs_up/blob/main/Screenshot%202023-01-25%20at%204.14.22%20PM.png)
 
 December:
-![December Summary Statistics]()
+
+
+![December Summary Statistics](https://github.com/heatherhutchinson211/surfs_up/blob/main/Screenshot%202023-01-25%20at%204.14.32%20PM.png)
 
 
 - As you can see, the mean temperature in June is 74, while it is only 71 in December.  This accounts for a 3 degree difference.
